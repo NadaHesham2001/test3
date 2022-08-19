@@ -97,7 +97,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
     );
     return Scaffold(
       body: Padding(
-        padding: const EdgeInsets.all(20),
+        padding: const EdgeInsets.all(15),
         child: SingleChildScrollView(
           child: Column(
             children: [
